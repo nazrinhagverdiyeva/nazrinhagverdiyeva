@@ -1,6 +1,6 @@
 # Hi, I'm Nazrin 👋
 
-🎓 Computer Science student at BANM, Baku 
+🎓 Computer Science student at BHOS
 
 📱 Interested in mobile app development
 
