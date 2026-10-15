@@ -7,7 +7,7 @@ I'm part of the teams behind three startup projects:
 
 - 🛡️ **FinGuard**: financial resilience solution, presented at the final stage of **EmpowerMe** (Habitat Association, supported by Starbucks Foundation and Alshaya Group)
 - 🌾 **AquaRisk**: a mobile app for agriculture *(MVP built by our team)*
-- 🎓 **Financial literacy platform for kids**: *(MVP built by our team)*
+- 🎓 **Financial literacy platform for kids**: 
 
 ## 🛠️ Tech
 Python · Java · C/C++ · OOP · Data Structures · Git/GitHub
